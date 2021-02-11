@@ -1,4 +1,4 @@
-> # `Mais Projetos androids`
+> # Mais Projetos androids
 
 - ##### **Lendo QR code**
 
