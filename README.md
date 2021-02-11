@@ -1,6 +1,6 @@
 > # Mais Projetos androids
 
-- ##### **Lendo QR code**
+- **Lendo QR code**
 
 - **Gerando QR cade**
 
