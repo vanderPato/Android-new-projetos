@@ -4,7 +4,7 @@
 
 - **Gerando QR cade**
 
-- **Testando Logica **
+- **Testando Logica**
 
 - ### ***Meus projetos e ideias estarão sempre por aqui***
 
