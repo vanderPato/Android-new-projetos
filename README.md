@@ -1,4 +1,4 @@
-> # Mais Projetos androids
+ # Mais Projetos androids
 
 - **Lendo QR code**
 
@@ -6,5 +6,5 @@
 
 - **Testando Logica**
 
-- ### ***Meus projetos e ideias estarão sempre por aqui***
+- ***Meus projetos e ideias estarão sempre por aqui***
 
